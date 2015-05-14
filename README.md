@@ -1,6 +1,7 @@
-WARNING: This application is still in very early development stage.
 
 Avoid distractions from Android wear during driving with Undistract.
+
+Disclaimer: This application is still in very early development stage.
 
 Blacken your Android watch in three ways:
 1. Set up a Bluetooth device, that will trigger screen blacking on connection. Very useful when set up with your car Bluetooth.
