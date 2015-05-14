@@ -1,0 +1,10 @@
+/Users/marioandhika/AndroidStudioProjects/Undistract/Application/build/intermediates/classes/debug
+/Users/marioandhika/AndroidStudioProjects/Undistract/Application/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-036a3e0b58224d077c466aaa000726b3fcd1e068.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Application/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-0c655ae4af24c71cade183caf43059d9501446d6.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Application/build/intermediates/pre-dexed/debug/classes-65c1b37c8481fecc41eeae7ebf5dac16c2e51ee0.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Application/build/intermediates/pre-dexed/debug/classes-879df3ebc1a1e454cc1820a3e7319be8d20dff0d.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Application/build/intermediates/pre-dexed/debug/classes-de3fb5fe63a521f9fafa0444e7a1dbc0f9ffb473.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Application/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-d24c32305450fcbf1868c9ba8755b92203645f8a.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Application/build/intermediates/pre-dexed/debug/classes-6c032826fef698922e91d1a52ebdd375839866ab.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Application/build/intermediates/pre-dexed/debug/classes-c267ffaadfac46e3428ae1ff84d8059f033f4605.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Application/build/intermediates/pre-dexed/debug/classes-d9396f80f4e74a372259007816dbc40e07bf1057.jar

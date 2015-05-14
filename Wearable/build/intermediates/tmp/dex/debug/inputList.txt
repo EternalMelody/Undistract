@@ -1,0 +1,10 @@
+/Users/marioandhika/AndroidStudioProjects/Undistract/Wearable/build/intermediates/classes/debug
+/Users/marioandhika/AndroidStudioProjects/Undistract/Wearable/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-8b74e8f5c59ab9252c1e9d00a274a75e0d781526.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Wearable/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-03df734fe9199f0cd92be46076520059fd62320a.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Wearable/build/intermediates/pre-dexed/debug/classes-659f7a3b9db3736110766dd50fe38f3255d3a33d.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Wearable/build/intermediates/pre-dexed/debug/classes-01ed4ed2ce945547febf856d4f2bf61726401dbc.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Wearable/build/intermediates/pre-dexed/debug/classes-e187e2c787b50d87e23e88047591f63757d8627e.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Wearable/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-2a764c1652f7addd70507d30102c5a5399107c84.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Wearable/build/intermediates/pre-dexed/debug/classes-5504a4720b0854ce9a57072928ccca74c9de16fe.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Wearable/build/intermediates/pre-dexed/debug/classes-1046de96cb15e268adedba33a02f738b3c2f1f15.jar
+/Users/marioandhika/AndroidStudioProjects/Undistract/Wearable/build/intermediates/pre-dexed/debug/classes-9342d864a6cd8bf359abdb72087bddfb3ce31ec1.jar

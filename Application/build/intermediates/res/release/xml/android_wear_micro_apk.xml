@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wearableApp package="com.marioandhika.android.wearable.undistract">
+    <versionCode>1</versionCode>
+    <versionName>0.0.1</versionName>
+    <rawPathResId>android_wear_micro_apk</rawPathResId>
+</wearableApp><!-- From: file:/Users/marioandhika/AndroidStudioProjects/Undistract/Application/build/generated/res/microapk/release/xml/android_wear_micro_apk.xml -->
